@@ -1,6 +1,6 @@
 # Task-Master Application
 
-Task-Master is a simple yet powerful task management application built using React and TypeScript. This project allows users to add, delete, and update tasks, with data being saved and managed via an API. Designed to enhance productivity and organization, Task-Master is perfect for individuals and teams looking to efficiently manage their tasks and to-dos.
+Task-Master is a simple yet powerful task management application built using **React**, **TypeScript** and **Bulma**. This project allows users to add, delete, and update tasks, with data being saved and managed via an API. Designed to enhance productivity and organization, Task-Master is perfect for individuals and teams looking to efficiently manage their tasks and to-dos.
 
 ## Features:
 - Add Tasks: Create new tasks with ease.
