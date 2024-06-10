@@ -39,13 +39,7 @@ npm install
 yarn install
 ```
 Running the Application Locally
-To start the application locally, follow these steps:
 
-Create a .env file in the root directory and add your API URL:
-
-env
-Copy code
-REACT_APP_API_URL=http://your-api-endpoint
 Start the application:
 
 ### bash Copy code
