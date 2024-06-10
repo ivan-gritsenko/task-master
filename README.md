@@ -1,6 +1,6 @@
 # Task-Master Application
 
-Task-Master is a simple yet powerful task management application built using React and TypeScript. This project allows users to add, delete, and update tasks, with data being saved and managed via an API.
+Task-Master is a simple yet powerful task management application built using React and TypeScript. This project allows users to add, delete, and update tasks, with data being saved and managed via an API. Designed to enhance productivity and organization, Task-Master is perfect for individuals and teams looking to efficiently manage their tasks and to-dos.
 
 ## Features:
 - Add Tasks: Create new tasks with ease.
@@ -14,3 +14,46 @@ Task-Master is a simple yet powerful task management application built using Rea
 
 
 > [DEMO LINK](https://ivan-gritsenko.github.io/task-master/)
+
+## Getting Started
+Prerequisites
+Make sure you have the following installed on your local machine:
+
+Node.js (>=14.x)
+npm (>=6.x) or yarn (>=1.22.x)
+Installation
+Clone the repository:
+
+bash
+Copy code
+```
+git clone https://github.com/yourusername/task-master.git
+cd task-master
+```
+Install dependencies:
+
+### bash Copy code
+```
+npm install
+# or
+yarn install
+```
+Running the Application Locally
+To start the application locally, follow these steps:
+
+Create a .env file in the root directory and add your API URL:
+
+env
+Copy code
+REACT_APP_API_URL=http://your-api-endpoint
+Start the application:
+
+### bash Copy code
+```
+npm start
+# or
+yarn start
+```
+This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
+
+The page will reload if you make edits. You will also see any lint errors in the console.
